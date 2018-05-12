@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '43385'
     url: http://www.gutenberg.org/2009/agents/43385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45619#History-of-the-Prophet-Joseph-by-His-Mother
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-05-09'
 gutenberg_type: Text
